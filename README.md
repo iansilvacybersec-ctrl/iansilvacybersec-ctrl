@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Configuração de um SIEM no Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuração de um SIEM no Azure](https://github.com/iansilvacybersec-ctrl/Configurando-um-SIEM/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/ian-silva-7520a5370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br7uNFjFnSEimBOawzXctRw%3D%3D
 
 <!--
 **iansilvacybersec-ctrl/iansilvacybersec-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
